@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Typography
-parent: Utilities
+title: Basic4
+parent: Java
 ---
 
 # Typography Utilities

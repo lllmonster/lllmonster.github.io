@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Color
-parent: Utilities
+title: Basic1
+parent: Java
 ---
 
 # Color Utilities

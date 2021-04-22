@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Responsive Modifiers
-parent: Utilities
+title: Basic3
+parent: Java
 ---
 
 # Responsive modifiers

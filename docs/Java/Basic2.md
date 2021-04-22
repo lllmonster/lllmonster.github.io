@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Layout
-parent: Utilities
+title: Basic2
+parent: Java
 ---
 
 # Layout Utilities
